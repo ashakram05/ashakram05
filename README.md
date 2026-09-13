@@ -6,7 +6,7 @@
 
 **Computer Science student building toward practical machine learning and production ML.**
 
-Applied ML · Federated Learning · MLOps · AI Systems
+Applied ML · Federated Learning · AI Systems
 
 📍 COMSATS University Islamabad, Lahore Campus · 7th semester
 
