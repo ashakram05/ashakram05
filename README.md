@@ -147,6 +147,10 @@ I'm especially interested in building systems where machine learning meets real 
 
 **Let's build something useful.**
 
-[LinkedIn](https://www.linkedin.com/in/ashakram05/) · [Email](ashakram05@gmail.com) · [GitHub](https://github.com/ashakram05)
+<a href="https://www.linkedin.com/in/ashakram05/" target="_blank">LinkedIn</a>
+·
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ashakram05@gmail.com" target="_blank">Email</a>
+·
+<a href="https://github.com/ashakram05" target="_blank">GitHub</a>
 
 </div>
