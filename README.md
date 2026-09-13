@@ -147,6 +147,6 @@ I'm especially interested in building systems where machine learning meets real 
 
 **Let's build something useful.**
 
-[LinkedIn](#) · [Email](#) · [GitHub](https://github.com/ashakram05)
+[LinkedIn](https://www.linkedin.com/in/ashakram05/) · [Email](ashakram05@gmail.com) · [GitHub](https://github.com/ashakram05)
 
 </div>
